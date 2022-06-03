@@ -12,7 +12,7 @@
 | Background   | `#202124` | `32 33 36`    | `225° 6% 13%`   |
 | Current Line | `#28292D` | `40 41 45`    | `228 6% 17%`    |
 | Selection    | `#414141` | `65, 65, 65`  | `0° 0% 25%`     |
-| Foreground   | `#F8F8F2` | `248 248 242` | `60° 30% 96%`   |
+| Foreground   | `#F8F8F2` | `248 248 242` | `60° 30% 96%`   | ![Foreground Color](https://draculatheme.com/static/img/color-boxes/foreground.png) |
 | Comment      | `#6272A4` | `98 114 164`  | `225° 27% 51%`  |
 | Blue         | `#00CCFF` | `0 204 255`   | `192° 100% 50%` |
 | Green        | `#00FF99` | `0 255 153`   | `156° 100% 50%` |
