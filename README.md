@@ -20,7 +20,7 @@
 | Pink         | `#FF80CC` | `255 128 204` | `324° 100% 75%` |![Pink Color](https://i.imgur.com/QnD3hNm.png)|
 | Purple       | `#D190FF` | `209 144 255` | `275° 100% 78%` |![Purple Color](https://i.imgur.com/ICsGc0p.png)|
 | Red          | `#FF3838` | `255 56 56`   | `0° 100% 61%`   |![Red Color](https://i.imgur.com/d6rk11R.png)|
-| Yellow       | `#FFCC00` | `255 204 0`   | `48° 100% 50%`  |![Yellow Color](https://i.imgur.com/sdrlMs4.png)|
+| Yellow       | `#FFFF33` | `255 204 0`   | `48° 100% 100%`  |![Yellow Color](https://i.imgur.com/HbMhQHe.png)|
 
 ## Credits
 
