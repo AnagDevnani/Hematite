@@ -1,4 +1,4 @@
-# Hematite
+<h1 align="center"> Hematite </h1>
 
 <a title="Wikipedia Loves Art participant &quot;Assignment_Houston_One&quot;, CC BY-SA 2.5 &lt;https://creativecommons.org/licenses/by-sa/2.5&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:WLA_hmns_Hematite.jpg"><img width="384" alt="WLA hmns Hematite" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WLA_hmns_Hematite.jpg/384px-WLA_hmns_Hematite.jpg"></a>
 
